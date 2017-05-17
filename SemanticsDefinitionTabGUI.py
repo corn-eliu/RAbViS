@@ -23,7 +23,6 @@ from PIL import Image
 from PySide import QtCore, QtGui
 
 import VideoTexturesUtils as vtu
-import GraphWithValues as gwv
 
 
 DICT_SEQUENCE_NAME = 'semantic_sequence_name'

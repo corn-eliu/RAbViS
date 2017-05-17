@@ -4,7 +4,6 @@
 # In[1]:
 
 ## Imports and defines
-# %pylab
 import numpy as np
 import sys
 
@@ -20,7 +19,6 @@ from PIL import Image
 from PySide import QtCore, QtGui
 
 
-import GraphWithValues as gwv
 import VideoTexturesUtils as vtu
 import SemanticsDefinitionTabGUI as sdt
 import SemanticLoopingTabGUI as slt
